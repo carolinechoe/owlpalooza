@@ -1,0 +1,39 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 130px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 124px;
+  height: 124px;
+  background-image: url("images/twilio-mark-red.png");
+  background-position: 50% 50%;
+  margin: 1px auto 5px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 126px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-bottom: 1px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 595px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 400;
+  margin: 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 100vh;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 405px;
+  }
+}

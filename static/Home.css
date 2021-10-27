@@ -1,0 +1,123 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1182px;
+}
+
+.u-section-1 .u-list-1 {
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-gap: 10px 10px;
+  grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+  min-height: 819px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 10px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 273px;
+  height: 263px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 29px auto 0;
+  padding: 6px 31px 6px 30px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 10px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 273px;
+  height: 263px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 29px auto 0;
+  padding: 6px 31px 6px 30px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 10px;
+}
+
+.u-section-1 .u-image-3 {
+  width: 273px;
+  height: 263px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-btn-3 {
+  border-style: solid;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 29px auto 0;
+  padding: 6px 31px 6px 30px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 10px;
+}
+
+.u-section-1 .u-image-4 {
+  width: 273px;
+  height: 263px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-btn-4 {
+  border-style: solid;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 29px auto 0;
+  padding: 6px 31px 6px 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 100vh;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-bottom: 0;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: repeat(2, calc(50% - 5px));
+    min-height: 676px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 264px;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 264px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 264px;
+  }
+
+  .u-section-1 .u-image-4 {
+    height: 264px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+}

@@ -1,0 +1,101 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 130px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 127px;
+  height: 127px;
+  background-image: url("images/twilio-mark-red.png");
+  background-position: 50% 50%;
+  margin: 0 1013px 3px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-right: 813px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    margin-right: 593px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-right: 413px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    margin-right: 213px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 1172px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 69px auto 0;
+}
+
+.u-section-2 .u-list-item-1 {
+  margin: 43px 728px 60px 412px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-image-1 {
+  background-image: url("images/twilio-mark-red.png");
+  background-position: 50% 50%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 0;
+    margin-left: 79px;
+    margin-right: 79px;
+  }
+
+  .u-section-2 .u-list-item-1 {
+    height: 0;
+    margin-top: 112px;
+    margin-right: 628px;
+    margin-left: 312px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-list-item-1 {
+    margin-right: 518px;
+    margin-left: 202px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    margin-top: 60px;
+  }
+
+  .u-section-2 .u-list-item-1 {
+    margin-right: 428px;
+    margin-left: 112px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-2 .u-list-item-1 {
+    margin-right: 328px;
+    margin-left: 12px;
+  }
+}
